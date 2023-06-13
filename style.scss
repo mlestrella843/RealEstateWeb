@@ -1,10 +1,14 @@
 
 $primary: rgba(173, 181, 189, 0.75);
+$secondary: #1b2a4e;
+
 
 $theme-colors: (
   "primary": $primary,
-  
+  "secondary": $secondary
 );
+
+
 
 
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
