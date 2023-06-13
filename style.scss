@@ -1,1 +1,10 @@
+
+$primary: rgba(173, 181, 189, 0.75);
+
+$theme-colors: (
+  "primary": $primary,
+  
+);
+
+
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
